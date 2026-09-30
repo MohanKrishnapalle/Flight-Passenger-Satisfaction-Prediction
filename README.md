@@ -60,7 +60,7 @@ Flight-Passenger-Satisfaction-Prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Hiranya03/Flight-Passenger-Satisfaction-Prediction.git
+git clone https://github.com/MohanKrishnaPalle/Flight-Passenger-Satisfaction-Prediction.git
 ```
 
 ### 2. Navigate to the project
